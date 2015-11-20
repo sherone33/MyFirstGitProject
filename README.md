@@ -1,10 +1,8 @@
-# MyFirstGitProject
-This is my first "mature" attempt at making a GitHub project that I'll actually integrate with Xcode...
+# RED RED RED BREAD - My_First_Ever_Git_Hub_Project
+Many years ago, in a far off RED land...
 
-Project Objective:
-To learn how to use GitHub.
-Ultimately, like almost everything, it's all about increasing my $$$ earning potential so that it'll be truly AWESOME!
+<Romantic Orchestral Score fills the theater...>
 
-I'll be using this tool (GitHub) to facilitate my learning about Continuous Integration.
-Specifically with Xcode, Xcode Server and OS X Server.
-Wish me luck! (I'm wishing it upon myslef right now...)
+Galloping horses are heard in the distance.
+
+They draw nearer...
