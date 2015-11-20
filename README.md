@@ -1,10 +1,7 @@
-# MyFirstGitProject
-This is my first "mature" attempt at making a GitHub project that I'll actually integrate with Xcode...
+# My_First_Ever_Git_Hub_Project
+A long time ago, in a galaxy far, far away...
 
-Project Objective:
-To learn how to use GitHub.
-Ultimately, like almost everything, it's all about increasing my $$$ earning potential so that it'll be truly AWESOME!
+BROO-BOOM-BOOM!_PA DA... ba da da DA da...
 
-I'll be using this tool (GitHub) to facilitate my learning about Continuous Integration.
-Specifically with Xcode, Xcode Server and OS X Server.
-Wish me luck! (I'm wishing it upon myslef right now...)
+BLUE is a really good color - for pretty much EVERYTHING.
+Its peaceful and quiet and people with Blue eyes are spacy and wish swooshy washy...
